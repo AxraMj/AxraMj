@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Axra
 #### software developer 
-![software developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hello! I'm a passionate software developer from India with a deep love for coding and technology. With a background in computer science, I thrive on solving complex problems and turning innovative ideas into reality.
 
