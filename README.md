@@ -14,8 +14,7 @@
 
  💬 Ask me about **React, Firebase... or anything [here](https://github.com/AxraMj)**  
 
- ⚡ Fun fact: **The first computer virus was created in 1983 and was called the "Elk Cloner."**  
-
+ 
 </div>
 
  
