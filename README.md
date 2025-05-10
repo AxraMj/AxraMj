@@ -215,12 +215,7 @@
 
 <br/>
 
-<div align="center">
-  <h3>💖 Support My Work</h3>
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-  </a>
-</div>
+
 
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
