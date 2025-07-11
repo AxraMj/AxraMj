@@ -191,12 +191,13 @@
 <h2 align="center">🎯 Featured Projects 🎯</h2>
 <br>
 <div align="center">
+     <a href="https://github.com/AxraMj/colorpal.git">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AxraMj&repo=Axra-3d-Portfolio&bg_color=0D1117&title_color=00bfbf&text_color=FFFFFF&icon_color=00bfbf&hide_border=true" />
+  </a>
   <a href="https://github.com/AxraMj/TRAVEL-AND-EXPLORATION-MOBILE-APP.git">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AxraMj&repo=TRAVEL-AND-EXPLORATION-MOBILE-APP&bg_color=0D1117&title_color=00bfbf&text_color=FFFFFF&icon_color=00bfbf&hide_border=true" />
   </a>
-  <a href="https://github.com/AxraMj/Axra-3d-Portfolio.git">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AxraMj&repo=Axra-3d-Portfolio&bg_color=0D1117&title_color=00bfbf&text_color=FFFFFF&icon_color=00bfbf&hide_border=true" />
-  </a>
+ 
 </div>
 
 <br/>
