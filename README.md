@@ -1,6 +1,6 @@
 <!-- Stunning Header with Purple/Blue Theme -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=🚀%20AXRA%20MANOJ%20🚀&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=✨%20Crafting%20Digital%20Magic%20•%20Full%20Stack%20Developer%20•%20Innovation%20Enthusiast%20✨&descAlignY=55&descAlign=50&descSize=20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=%20AXRA%20MANOJ%20&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%20Crafting%20Digital%20Magic%20•%20Full%20Stack%20Developer%20•%20Innovation%20Enthusiast%20&descAlignY=55&descAlign=50&descSize=20"/>
 </div>
 
 <!-- Epic Typing Animation -->
