@@ -2,7 +2,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=%20AXRA%20MANOJ%20&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%20Crafting%20Digital%20Magic%20•%20Full%20Stack%20Developer%20•%20Innovation%20Enthusiast%20&descAlignY=55&descAlign=50&descSize=20"/>
 </div>
-
 <!-- Epic Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=💻+Building+AMAZING+applications!;🎨+Creating+BEAUTIFUL+user+experiences;🚀+Turning+IDEAS+into+REALITY;🔥+Always+LEARNING+new+technologies;⚡+Ready+to+INNOVATE+together!&font=Orbitron&size=30&center=true&width=800&height=60&duration=3000&pause=800&color=667eea&background=00000000" />
