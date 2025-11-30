@@ -1,60 +1,61 @@
 <!-- Stunning Header with Purple/Blue Theme -->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=%20AXRA%20MANOJ%20&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%20Crafting%20Digital%20Magic%20•%20Full%20Stack%20Developer%20•%20Innovation%20Enthusiast%20&descAlignY=55&descAlign=50&descSize=20"/>
-</div>
-<!-- Epic Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=💻+Building+AMAZING+applications!;🎨+Creating+BEAUTIFUL+user+experiences;🚀+Turning+IDEAS+into+REALITY;🔥+Always+LEARNING+new+technologies;⚡+Ready+to+INNOVATE+together!&font=Orbitron&size=30&center=true&width=800&height=60&duration=3000&pause=800&color=667eea&background=00000000" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=%20AXRA%20MANOJ%20&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%20Crafting%20Digital%20Magic%20•%20Full%20Stack%20Developer%20•%20Innovation%20Enthusiast%20&descAlignY=55&descAlign=50&descSize=20"/>
 </div>
 
-<br/>
+<!-- Epic Typing Animation -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=💻+Building+AMAZING+applications!;🎨+Creating+BEAUTIFUL+user+experiences;🚀+Turning+IDEAS+into+REALITY;🔥+Always+LEARNING+new+technologies;⚡+Ready+to+INNOVATE+together!&font=Orbitron&size=30&center=true&width=800&height=60&duration=3000&pause=800&color=667eea&background=00000000" />
+</div>
 
 <!-- Cool Intro Animation -->
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 <!-- Profile Stats -->
+
 <div align="center">
-  
-### 🌟 **PROFILE STATS** 🌟
-  
-![](https://komarev.com/ghpvc/?username=AxraMj&style=for-the-badge&color=667eea&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/AxraMj?style=for-the-badge&color=764ba2&labelColor=000000&label=FOLLOWERS)
-![](https://img.shields.io/github/stars/AxraMj?style=for-the-badge&color=f093fb&labelColor=000000&label=TOTAL+STARS)
+
+🌟 PROFILE STATS 🌟
 
 </div>
 
 <!-- About Section -->
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-## 🔥 **ABOUT ME** 
+🔥 ABOUT ME ```javascript
 
-```javascript
 const AxraManoj = {
-    identity: "🧙‍♀️ Full Stack Developer",
-    location: "🌍 Kerala, India",
-    passion: "Creating amazing digital experiences ✨",
-    mission: "Building the future with code!",
-    
-    expertise: {
-        frontend: ["React ⚛️", "Next.js 🚀", "TypeScript 💙"],
-        backend: ["Node.js 🟢", "Python 🐍", "Firebase 🔥"],
-        mobile: ["React Native 📱"],
-        tools: ["Git 🔧", "Docker 🐳", "AWS ☁️"]
-    },
-    
-    currentFocus: "Building scalable web applications 🚀",
-    funFact: "Can solve Rubik's cube in under 2 minutes! 🧩",
-    motto: "Code with passion, create with purpose! 💜"
+identity: "🧙‍♀️ Full Stack Developer",
+location: "🌍 Kerala, India",
+passion: "Creating amazing digital experiences ✨",
+mission: "Building the future with code!",
+
+expertise: {
+    frontend: ["React ⚛️", "Next.js 🚀", "TypeScript 💙"],
+    backend: ["Node.js 🟢", "Python 🐍", "Firebase 🔥"],
+    mobile: ["React Native 📱"],
+    tools: ["Git 🔧", "Docker 🐳", "AWS ☁️"]
+},
+
+currentFocus: "Building scalable web applications 🚀",
+funFact: "Can solve Rubik's cube in under 2 minutes! 🧩",
+motto: "Code with passion, create with purpose! 💜"
+
+
 };
-```
+
 
 ### 🎯 **WHAT I DO**
 - 🚀 **Build** scalable web applications
-- 🎨 **Design** beautiful user interfaces  
+- 🎨 **Design** beautiful user interfaces  
 - 🧩 **Solve** complex technical challenges
 - 📱 **Develop** mobile applications
 - 🤝 **Collaborate** on innovative projects
@@ -63,17 +64,17 @@ const AxraManoj = {
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
-  
-  <br/><br/>
-  
-  <!-- Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxraMj&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_radius=20" width="300"/>
-  
-  <br/><br/>
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AxraMj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&icon_color=764ba2&border_radius=20" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
+  
+  <br/><br/>
+  
+  <!-- Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxraMj&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_radius=20" width="300"/>
+  
+  <br/><br/>
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AxraMj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&icon_color=764ba2&border_radius=20" width="400"/>
 </div>
 
 </td>
@@ -109,8 +110,8 @@ const AxraManoj = {
 
 <!-- Stats -->
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=AxraMj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&icon_color=764ba2&include_all_commits=true&count_private=true&border_radius=20"/>
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AxraMj&theme=tokyonight&hide_border=true&border_radius=20&background=0d1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=c9d1d9"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=AxraMj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&icon_color=764ba2&include_all_commits=true&count_private=true&border_radius=20"/>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AxraMj&theme=tokyonight&hide_border=true&border_radius=20&background=0d1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=c9d1d9"/>
 </div>
 
 <!-- Activity Graph -->
@@ -129,17 +130,17 @@ const AxraManoj = {
 <table>
 <tr>
 <td width="50%" align="center">
-  
+  
 ### 🎨 **COLORPAL**
-  
+  
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AxraMj&repo=colorpal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&icon_color=764ba2&border_radius=15"/>
 
 **🚀 Advanced Color Palette Generator**
-  
-✨ Modern React application  
-🎨 Real-time color harmony  
-💾 Multiple export formats  
-🌈 Designer-friendly interface  
+  
+✨ Modern React application  
+🎨 Real-time color harmony  
+💾 Multiple export formats  
+🌈 Designer-friendly interface  
 
 **Tech Stack:** `React` `CSS3` `Color Theory` `Modern UI`
 
@@ -154,10 +155,10 @@ const AxraManoj = {
 
 **🌍 Complete Travel Companion**
 
-📱 React Native mobile app  
-🗺️ Location-based services  
-📸 Social travel features  
-🔥 Firebase backend  
+📱 React Native mobile app  
+🗺️ Location-based services  
+📸 Social travel features  
+🔥 Firebase backend  
 
 **Tech Stack:** `React Native` `Firebase` `Maps API` `Mobile Development`
 
@@ -180,16 +181,16 @@ const AxraManoj = {
 ### 💜 Ready to collaborate on something incredible? 💜
 
 <a href="mailto:offxaxra@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-667eea?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" height="50"/>
+  <img src="https://img.shields.io/badge/Email_Me-667eea?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" height="50"/>
 </a>
 <a href="https://www.linkedin.com/in/akshara-manoj/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-764ba2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" height="50"/>
+  <img src="https://img.shields.io/badge/LinkedIn-764ba2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" height="50"/>
 </a>
 <a href="https://axra-3d-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-f093fb?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=30" height="50"/>
+  <img src="https://img.shields.io/badge/Portfolio-f093fb?style=for-the-badge&logo=vercel&logoColor=white&logoWidth=30" height="50"/>
 </a>
 <a href="https://twitter.com/yourusername" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-667eea?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" height="50"/>
+  <img src="https://img.shields.io/badge/Twitter-667eea?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" height="50"/>
 </a>
 
 ### 💫 **"Great things happen when passionate developers collaborate!"** 💫
@@ -198,12 +199,11 @@ const AxraManoj = {
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;
-  
-  <br/><br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:f093fb&height=150&section=footer&fontSize=0"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;
+  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:f093fb&height=150&section=footer&fontSize=0"/>
 </div>
-
