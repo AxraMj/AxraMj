@@ -4,8 +4,6 @@
 
 <br/>
 
-
-
 <!-- About Section -->
 <table width="100%">
 <tr>
